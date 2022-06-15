@@ -1,2 +1,3 @@
 # Merge-Quest
-Quelques lignes de texte
+Quelques lignes de texte  
+LOCAL
